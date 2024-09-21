@@ -46,3 +46,10 @@ My main technologies for full stack development are **Spring Boot** for the back
 
 
 
+## 🔥 GitHub Streak:
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=binnosoc&theme=dark)
+
+## 💻 Most Used Languages:
+
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=binnosoc&layout=compact&theme=dark)
