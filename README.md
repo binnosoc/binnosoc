@@ -42,7 +42,7 @@ My main technologies for full stack development are **Spring Boot** for the back
 
 ## 📊 GitHub Stats:
 
-![Tes GitHub Stats](https://github-readme-stats.vercel.app/api?username=innosoc&show_icons=true&theme=dark)
+![Tes GitHub Stats](https://github-readme-stats.vercel.app/api?username=binnosoc&show_icons=true&theme=dark)
 
 
 
