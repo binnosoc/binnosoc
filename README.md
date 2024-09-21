@@ -8,7 +8,8 @@ My main technologies for full stack development are **Spring Boot** for the back
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://www.linkedin.com/in/ousseni-boro-81b8631a2/)
+## 🌐 Socials:  
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/ousseni-boro-81b8631a2/)
 
 ---
 
@@ -37,3 +38,11 @@ My main technologies for full stack development are **Spring Boot** for the back
 ![AJAX](https://img.shields.io/badge/AJAX-007ACC?style=for-the-badge&logo=ajax&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-29A3E3?style=for-the-badge&logo=iot&logoColor=white)
+
+
+## 📊 GitHub Stats:
+
+![Tes GitHub Stats](https://github-readme-stats.vercel.app/api?username=innosoc&show_icons=true&theme=dark)
+
+
+
