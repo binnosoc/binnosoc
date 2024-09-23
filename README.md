@@ -10,6 +10,9 @@ My main technologies for full stack development are **Spring Boot** for the back
 ## 🌐 Socials:  
 [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg=60x60)](https://www.linkedin.com/in/votreprofil)
 
+<a href="https://www.linkedin.com/in/votreprofil" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="60" height="60"/>
+</a>
 ---
 
 ## 💻 Tech Stack:
