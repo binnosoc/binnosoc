@@ -8,7 +8,7 @@ My main technologies for full stack development are **Spring Boot** for the back
 ---
 
 ## 🌐 Socials:  
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg=60x60)](https://www.linkedin.com/in/ousseni-boro-81b8631a2/)
+[![Facebook](https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg=60x60)](https://www.facebook.com/votreprofil)
 
 ---
 
