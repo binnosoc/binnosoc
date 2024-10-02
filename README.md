@@ -1,6 +1,6 @@
 # 👋 About Me:
 
-Hi, I'm **Ousséni Boro**, Full Stack Developer.  
+Hi, I'm **Ousséni Boro**, Software engineer.  
 My main technologies for full stack development are **Spring Boot** for the backend and **Angular** for the Front End.
 
 🌱 I also work on **Python**, **PHP**, and **Deep Learning** projects.
