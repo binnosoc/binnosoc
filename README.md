@@ -3,7 +3,7 @@
 Hi, I'm **Ousséni Boro**, Software engineer.  
 My main technologies for full stack development are **Spring Boot**, **Django** for the backend and **Angular** for the Front End.
 
-🌱 I also work on **Python**, **PHP**, and **Deep Learning** projects.
+🌱 I also work on **PHP**, and **Deep Learning** projects.
 
 ---
 
