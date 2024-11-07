@@ -1,9 +1,9 @@
-# 👋 About Me:
+# 👋 A propos de moi:
 
-Hi, I'm **Ousséni Boro**, Software engineer.  
-My main technologies for full stack development are **Spring Boot**, **Odoo**, **.NET** and **Angular**.
+Salut, je suis **Ousséni Boro**, ingénieur logiciel.  
+Mes principales technologies pour le développement full stack sont **Spring Boot**, **Odoo**, **.NET** et **Angular**.
 
-🌱 I also work on **PHP**, **Laravel** and **Django** projects.
+🌱 Je travaille également sur des projets **PHP**, **Laravel** et **Django**.
 
 ---
 
@@ -13,7 +13,7 @@ My main technologies for full stack development are **Spring Boot**, **Odoo**, *
 
 ---
 
-## 💻 Tech Stack:
+## 💻 Technologies:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
