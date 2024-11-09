@@ -1,11 +1,7 @@
 # 👋 A propos de moi:
 
-Salut, je suis **Ousséni Boro**, ingénieur logiciel spécialisé en développement full stack avec une expertise particulière en Spring boot, PHP, ?NET, FastAPI, Flask et Angular  
-Mes principales technologies pour le développement full stack sont **Spring Boot**, **Odoo**, **.NET** et **Angular**.
-
-Je suis un ingénieur passionné et polyvalent, qui se spécialise dans la conception, le développement et l'intégration de systèmes intelligents et communicants. Grâce à ma formation approfondie et à mes compétences techniques variées, j'ai une solide expérience dans la conception et le développement de projets innovants, intégrant l'IoT, le machine Learning et les télécommunications. Mes compétences couvrent la programmation avancée, la simulation de circuits, la conception d'antennes et l'intégration de systèmes complexes. Au-delà de mes compétences techniques, je suis également très orienté vers la collaboration, le leadership et l'esprit d'analyse.
-
-🌱 Je travaille également sur des projets **PHP**, **Laravel** et **Django**.
+Salut, je suis **Ousséni Boro**, ingénieur logiciel spécialisé en développement full stack.  
+🌱 Mes principales technologies pour le développement full stack sont **Spring Boot**,  **FastAPI**, **Flask**, **Django**,  **Odoo**, **PHP**, **.NET**, **React Js** et **Angular**.
 
 ---
 
