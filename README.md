@@ -1,6 +1,6 @@
 # 👋 A propos de moi:
 
-Salut, je suis **Ousséni Boro**, ingénieur logiciel spécialisé en développement full stack.  
+Salut, je suis **Ousséni Boro**, ingénieur logiciel spécialisé en développement full stack et l'ingéniérie de données.  
 🌱 Mes principales technologies pour le développement full stack sont **Spring Boot**,  **FastAPI**, **Flask**, **Django**,  **Odoo**, **PHP**, **.NET**, **React Js** et **Angular**, **Grafana**.
 
 ---
