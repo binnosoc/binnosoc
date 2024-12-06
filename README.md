@@ -1,6 +1,6 @@
 # 👋 A propos de moi:
 
-Salut, je suis **Ousséni Boro**, ingénieur logiciel spécialisé en développement full stack et l'ingéniérie de données.
+Salut, je suis **Ousséni Boro**, ingénieur Telecom avec une expertise particulière en développement logiciel et en ingéniérie de données.
 
 ---
 
