@@ -1,6 +1,6 @@
 # 👋 A propos de moi:
 
-Salut, je suis **Ousséni Boro**, ingénieur Telecom avec une expertise particulière en ingéniérie de données.
+Salut, je suis **Ousséni Boro**, ingénieur Telecom avec une expertise particulière en ingéniérie de données et Business Intelligence.
 
 ---
 
