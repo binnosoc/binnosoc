@@ -10,7 +10,7 @@ Salut, je suis **Ousséni Boro**, ingénieur Telecom avec une expertise particul
 
 ---
 
-## 💻 Technologies:
+## 💻 Technologies :
 
 [![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
 [![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)](https://airflow.apache.org/)
