@@ -4,7 +4,7 @@ Salut, je suis **Ousséni Boro**, ingénieur Telecom avec une expertise particul
 
 ---
 
-## 🌐 Socials:  
+## 🌐 Socials :  
 
 [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/ousseni-boro-81b8631a2/)
 
